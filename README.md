@@ -404,4 +404,8 @@ Une table de routage est une base de données ou un ensemble d'informations stoc
 4. Tester la connectivité à l'aide de la commande `ping` et les simulations.
 
 ![exo8ping](./screenshots/exo8ping.png)
+<<<<<<< HEAD
 ![exo8ping](./screenshots/exo8ping2.png)
+=======
+![exo8ping](./screenshots/exo8ping2.png)
+>>>>>>> 9fbf14efbffa251d895c111cb38cc0d4d1ec9c3e
